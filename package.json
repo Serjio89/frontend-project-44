@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Serjio89/frontend-project-44/issues"
   },
+  "bin": {
+    "brain-games": "bin/brain-games.js"
+  },
+  "type": "module",
   "homepage": "https://github.com/Serjio89/frontend-project-44#readme"
 }
