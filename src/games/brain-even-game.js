@@ -1,4 +1,4 @@
-import getGame from '../index.js';
+import beginGame from '../index.js';
 
 import getRandomNumber from '../randomNumber.js';
 
@@ -11,5 +11,5 @@ const startGame = () => {
 };
 
 export default () => {
-  getGame(taskGame, startGame);
+  beginGame(taskGame, startGame);
 };
