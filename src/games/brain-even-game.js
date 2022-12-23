@@ -1,6 +1,6 @@
-import getGame from '../index.js';
+import getGame from '../src/index.js';
 
-import getRandomNumber from '../randomNumber.js';
+import getRandomNumber from '../src/randomNumber.js';
 
 const isEven = (number) => number % 2 === 0;
 const taskGame = 'Answer "yes" if the number is even, otherwise answer "no".';
