@@ -13,4 +13,4 @@ rules:
       - error
       - ignorePackages
       - js: always
-  linebreak-style: 0
+      
