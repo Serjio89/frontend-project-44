@@ -4,7 +4,13 @@
 
 <a href="https://codeclimate.com/github/Serjio89/frontend-project-44/maintainability"><img src="https://api.codeclimate.com/v1/badges/4f6eb1973d05e8a09919/maintainability" /></a>
 
+<h1>Brain Games<h1\>
+
 <a href="https://asciinema.org/a/543315" target="_blank"><img src="https://asciinema.org/a/543315.svg" /></a>
+
+<h2>Установка<h2>
+git clone https://github.com/Serjio89/frontend-project-44.git
+make install
 
 <a href="https://asciinema.org/a/547583" target="_blank"><img src="https://asciinema.org/a/547583.svg" /></a>
 
