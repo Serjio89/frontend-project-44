@@ -17,7 +17,7 @@ const startGame = () => {
   const answerNumber = getRandomNumber(0, 9);
   const task = taskProgression(num1, num2);
   const rightAnswer = task[answerNumber];
-  task[answerNumber] = '...';
+  task[answerNumber] = '..';
   return [task.join(' '), String(rightAnswer)];
 };
 
