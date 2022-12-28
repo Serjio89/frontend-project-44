@@ -12,8 +12,8 @@ const taskProgression = (firstNum, sumOfProgression, numbersAmount = 9) => {
   return progression;
 };
 const startGame = () => {
-  const num1 = getRandomNumber();
-  const num2 = getRandomNumber();
+  const num1 = getRandomNumber(0, 10);
+  const num2 = getRandomNumber(0, 10);
   const answerNumber = getRandomNumber(0, 9);
   const task = taskProgression(num1, num2);
   const rightAnswer = task[answerNumber];
