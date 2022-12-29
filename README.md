@@ -9,9 +9,9 @@
 <a href="https://asciinema.org/a/543315" target="_blank"><img src="https://asciinema.org/a/543315.svg" /></a>
 
 
-## Установка
+# Установка
 
-* Скопируйте репозиторий с помощью команды  ```git clone https://github.com/Serjio89/frontend-project-44.git```
+* Скопируйте репозиторий с помощью команды  `git clone https://github.com/Serjio89/frontend-project-44.git `
 * Ведите в командной строке make install
 * Запуск игры осуществляется вводом названия игры в командную строку:
 
@@ -21,9 +21,9 @@
   - brain-progression
   - brain-prime
   
-```
+
 # Примеры запуска:
-```
+
 ## Brain Even
 
 <a href="https://asciinema.org/a/547583" target="_blank"><img src="https://asciinema.org/a/547583.svg" /></a>
