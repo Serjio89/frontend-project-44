@@ -17,15 +17,22 @@
 git clone https://github.com/Serjio89/frontend-project-44.git
 ```
 
-* Ведите в командной строке make install
+* Ведите в командной строке:
+```
+make install
+```
 * Запуск игры осуществляется вводом названия игры в командную строку:
 
-  - brain-even
-  - brain-calc
-  - brain-gcd
-  - brain-progression
-  - brain-prime
-  
+1. `brain-even`
+
+2. `brain-calc`
+
+3. `brain-gcd`
+ 
+4. `brain-progression`
+ 
+5. `brain-prime`
+
 
 # Примеры запуска:
 
