@@ -15,7 +15,6 @@
 
 ```
 git clone https://github.com/Serjio89/frontend-project-44.git
-
 ```
 
 * Ведите в командной строке make install
