@@ -19,10 +19,12 @@
   - brain-gcd
   - brain-progression
   - brain-prime
+ 
 # Примеры запуска:
-
+```
 ## Brain Even
 
+```
 <a href="https://asciinema.org/a/547583" target="_blank"><img src="https://asciinema.org/a/547583.svg" /></a>
 
 ## Brain Calc
