@@ -2,7 +2,7 @@ import beginGame from '../index.js';
 
 import getRandomNumber from '../randomNumber.js';
 
-const taskGame = 'What is the result of the expression?';
+const gameTask = 'What is the result of the expression?';
 let answer;
 
 const calculate = (operand1, operator, operand2) => {
@@ -32,5 +32,5 @@ const startGame = () => {
 };
 
 export default () => {
-  beginGame(taskGame, startGame);
+  beginGame(gameTask, startGame);
 };
