@@ -17,7 +17,7 @@ const calculate = (operand1, operator, operand2) => {
       answer = operand1 - operand2;
       return answer;
     default:
-      return null;
+      return undefined;
   }
 };
 const startGame = () => {
